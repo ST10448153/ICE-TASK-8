@@ -22,10 +22,7 @@ public class TestingEventReservation {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of checkPasswordComplexity method, of class Login.
-     */
-    
+   //NOW we check for password
     public void testCheckPasswordComplexity() {
         System.out.println("checkPasswordComplexity");
         boolean expResult = false;
